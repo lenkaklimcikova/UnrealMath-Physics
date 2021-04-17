@@ -1,8 +1,8 @@
 # UnrealMath-Physics
 Physics Project for course Math and Physics for Games in Tallinn University 
 
-Swing
-Ropes
+Swing,
+Ropes,
 Destruction with different field types
 
 Install Unreal Engine 4.26 Chaos and open the project
