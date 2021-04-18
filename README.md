@@ -5,4 +5,4 @@ Swing,
 Ropes,
 Destruction with different field types
 
-Install Unreal Engine 4.26 Chaos and open the project
+Install Unreal Engine 4.26 Chaos, open and play the project
